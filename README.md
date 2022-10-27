@@ -1,4 +1,7 @@
-# Algoritmo_de_Booth- Multiplicador con signo
+# HDL-PROJECT
+<h1 align="center"> Algoritmo_de_Booth- Multiplicador con signo </h1>
+
+# Descripción general
 
 Proyecto estudiantil desarrollado por los estudiantes David Vargas,Fiorela Chavarría,Jeaustin Paniagua, y Samuel Montenegro, los cuales son estudiantes del Instituto Tecnológico de Costa Rica(TEC), siendo además los cuatro, estudiantes de la carrera Ing.Electrónica
 
