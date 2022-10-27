@@ -20,7 +20,7 @@ El algoritmo de Booth es un método rápido y sencillo para obtener el producto 
 
 # Metodología de trabajo en equipo
 - Toda comunicación de los miembros del grupo es vía WhatsApp o Discord
-- Cada miembro debe tener una tarea asignada por concenso del grupo
+- Cada miembro debe tener minímo una tarea asignada por concenso del grupo
 - Cada miembro debe cumplir con la tarea asignada
 - En caso de dudas o inconvenientes comunicarlo a los demás miembros y de ser necesario con el profesor
 - Tener instalado Vivado
