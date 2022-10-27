@@ -36,6 +36,9 @@ Para la funcionalidad y posterior implementación de este subsistema, este bloqu
 
 ![Diagrama sin título-Page-1 drawio](https://user-images.githubusercontent.com/111306099/198240037-2b19a6e5-e269-4fed-b81f-b192ed4613fc.png)
 
+## Circuito antirrebotes 
+
+![Diagrama sin título-Página-2 drawio](https://user-images.githubusercontent.com/111306099/198240703-50c60287-3e5f-481e-abbb-e2ce6b16383c.png)
 
 
 ## Subsistema 2: Subsistema de cálculo de multiplicación
