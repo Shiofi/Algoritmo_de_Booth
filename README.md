@@ -33,3 +33,11 @@ El algoritmo de Booth es un método rápido y sencillo para obtener el producto 
 ## Subsistema 1: Subsistema de lectura
 Para la funcionalidad y posterior implementación de este subsistema, este bloque adquiere los operando A y B de 8 bits cada uno para realizar la operación de multiplicación, donde A y B se interpretan con signo en complemento a 2.La entrada del código debe ser capturada y sincronizada con el sistema principal por medio de un circuito antirebote de  4 etapas (4 FF en cascada) por switch. Se sincroniza con el sistema esperando la señal de pulsacion de 500ms, donde al cumplirse este tiempo, el sistema da inicio a la operación aritmética de multiplicación. Cada bit adquirido por el sistema luego del paso complemento a dos, se debe desplegar en un LED próximo al switch para indicar como fue leído.
 ## Diagrama de bloques del Subsistema de lectura
+AQUI VA LA IMAGEN
+
+
+
+## Subsistema 2: Subsistema de cálculo de multiplicación
+Este sistema se encarga de recibir los operandos A y B del subsistema de lectura. La operación de multiplicación se iniciará cuando el subsistema de lectura le indique a este subsistema que los operandos son válidos por medio de una bandera valid. El cálculo de multiplicación con signo se realizará de manera iterativa por medio del Algoritmo de
+Booth. Este bloque indicará al siguiente bloque consecutivo cuando el resultado de la multiplicación está estable para ser muestreado con una señal done
+## Diagrama de bloques del Subsistema cálculo de multiplicación
