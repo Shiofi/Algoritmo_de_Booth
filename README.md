@@ -29,4 +29,7 @@ El algoritmo de Booth es un método rápido y sencillo para obtener el producto 
 - De ser necesario, los mimebros pueden variar sobre que tarea realizar según fueron asignadas
 - Mantener el repositorio de GitHub actualizado
 
-
+# Descripción general de los subsistemas
+# Subsistema 1: Subsistema de lectura
+Para la funcionalidad y posterior implementación de este subsistema, este bloque adquiere los operando A y B de 8 bits cada uno para realizar la operación de multiplicación, donde A y B se interpretan con signo en complemento a 2.La entrada del código debe ser capturada y sincronizada con el sistema principal por medio de un circuito antirebote de  4 etapas (4 FF en cascada) por switch. Se sincroniza con el sistema esperando la señal de pulsacion de 500ms, donde al cumplirse este tiempo, el sistema da inicio a la operación aritmética de multiplicación. Cada bit adquirido por el sistema luego del paso complemento a dos, se debe desplegar en un LED próximo al switch para indicar como fue leído.
+# Diagrama de bloques del Subsistema de lectura
