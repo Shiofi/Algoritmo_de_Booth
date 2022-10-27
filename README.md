@@ -15,6 +15,7 @@ El algoritmo de Booth es un método rápido y sencillo para obtener el producto 
 - Subsistema de conversión de binario a representación BCD.
 - Subsistema de despliegue en display de 7 segmentos.
 - Cada subsistema deberá estar adecuadamente registrado a la entrada y salida. El flujo de datos debe ser indicado de manera explícita.
+- Para cada subsistema, será obligatorio presentar simulaciones tanto a nivel de RTL (pre-síntesis) como con información de temporizado (post-síntesis y post-colocación-y-ruteo)
 
 
 
