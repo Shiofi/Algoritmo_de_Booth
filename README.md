@@ -41,3 +41,9 @@ AQUI VA LA IMAGEN
 Este sistema se encarga de recibir los operandos A y B del subsistema de lectura. La operación de multiplicación se iniciará cuando el subsistema de lectura le indique a este subsistema que los operandos son válidos por medio de una bandera valid. El cálculo de multiplicación con signo se realizará de manera iterativa por medio del Algoritmo de
 Booth. Este bloque indicará al siguiente bloque consecutivo cuando el resultado de la multiplicación está estable para ser muestreado con una señal done
 ## Diagrama de bloques del Subsistema cálculo de multiplicación
+AQUI VA EL DIAGRAMA
+
+## Subsistema 3: Subsistema de conversión de binario a representación BCD
+Este sistema registrará el resultado del bloque anterior (16 bits con signo) y lo convierte en un formato BCD. Deberá generar al menos 5 dígitos en BCD y uno de signo para el siguiente bloque. Se indicará al siguiente bloque por medio de una bandera de done cuando está lista la conversión para registrar.
+## Diagrama de bloques del Subsistema cálculo de multiplicación
+AQUI VA EL DIAGRAMA
