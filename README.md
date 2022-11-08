@@ -45,8 +45,11 @@ Para la funcionalidad y posterior implementación de este subsistema, este bloqu
 
 <img width="507" alt="Captura de Pantalla 2022-11-08 a la(s) 15 57 02" src="https://user-images.githubusercontent.com/110066350/200685115-71e4199b-d4a3-4b98-9732-1d306ae73c5d.png">
 
+Fig. 3.  Tabla de transición de estados
 
 <img width="661" alt="Captura de Pantalla 2022-11-08 a la(s) 16 00 05" src="https://user-images.githubusercontent.com/110066350/200685019-0ec81fc2-1f75-4013-8039-fc4414f30ee9.png">
+
+Fig. 4.  Tabla de estados de salida
 
 
 ## Subsistema 2: Subsistema de cálculo de multiplicación
