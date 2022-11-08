@@ -42,7 +42,8 @@ Para la funcionalidad y posterior implementación de este subsistema, este bloqu
 
 ## Tablas del diagrama de transicion de estados
 
-<img width="347" alt="Captura de Pantalla 2022-11-08 a la(s) 13 39 55" src="https://user-images.githubusercontent.com/110066350/200684996-2a2d5a11-0743-4c81-b870-28fc50462e7f.png">
+
+<img width="507" alt="Captura de Pantalla 2022-11-08 a la(s) 15 57 02" src="https://user-images.githubusercontent.com/110066350/200685115-71e4199b-d4a3-4b98-9732-1d306ae73c5d.png">
 
 
 <img width="661" alt="Captura de Pantalla 2022-11-08 a la(s) 16 00 05" src="https://user-images.githubusercontent.com/110066350/200685019-0ec81fc2-1f75-4013-8039-fc4414f30ee9.png">
