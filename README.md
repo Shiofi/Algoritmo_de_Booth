@@ -40,6 +40,13 @@ Para la funcionalidad y posterior implementación de este subsistema, este bloqu
 
 ![Diagrama sin título-Página-2 drawio](https://user-images.githubusercontent.com/111306099/198240703-50c60287-3e5f-481e-abbb-e2ce6b16383c.png)
 
+## Tablas del diagrama de transicion de estados
+
+<img width="347" alt="Captura de Pantalla 2022-11-08 a la(s) 13 39 55" src="https://user-images.githubusercontent.com/110066350/200684996-2a2d5a11-0743-4c81-b870-28fc50462e7f.png">
+
+
+<img width="661" alt="Captura de Pantalla 2022-11-08 a la(s) 16 00 05" src="https://user-images.githubusercontent.com/110066350/200685019-0ec81fc2-1f75-4013-8039-fc4414f30ee9.png">
+
 
 ## Subsistema 2: Subsistema de cálculo de multiplicación
 Este sistema se encarga de recibir los operandos A y B del subsistema de lectura. La operación de multiplicación se iniciará cuando el subsistema de lectura le indique a este subsistema que los operandos son válidos por medio de una bandera valid. El cálculo de multiplicación con signo se realizará de manera iterativa por medio del Algoritmo de
