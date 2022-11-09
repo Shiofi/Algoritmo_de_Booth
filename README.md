@@ -40,17 +40,15 @@ Para la funcionalidad y posterior implementación de este subsistema, este bloqu
 
 ![Diagrama sin título-Página-2 drawio](https://user-images.githubusercontent.com/111306099/198240703-50c60287-3e5f-481e-abbb-e2ce6b16383c.png)
 
-## Tablas del diagrama de transicion de estados
+## Máquina de estados finitos
 
+<img width="344" alt="Captura de Pantalla 2022-11-08 a la(s) 17 58 54" src="https://user-images.githubusercontent.com/110066350/200702345-e2f861ab-fc86-4050-b02d-0ef6f162371e.png">
 
-<img width="507" alt="Captura de Pantalla 2022-11-08 a la(s) 15 57 02" src="https://user-images.githubusercontent.com/110066350/200685115-71e4199b-d4a3-4b98-9732-1d306ae73c5d.png">
+<img width="565" alt="Captura de Pantalla 2022-11-08 a la(s) 17 59 01" src="https://user-images.githubusercontent.com/110066350/200702358-efa525d2-c54a-43d0-a3ce-1e357721d0dd.png">
 
-Fig. 3.  Tabla de transición de estados
+<img width="478" alt="Captura de Pantalla 2022-11-08 a la(s) 17 59 10" src="https://user-images.githubusercontent.com/110066350/200702370-45f07841-2f99-448b-a207-4c226fee3351.png">
 
-<img width="661" alt="Captura de Pantalla 2022-11-08 a la(s) 16 00 05" src="https://user-images.githubusercontent.com/110066350/200685019-0ec81fc2-1f75-4013-8039-fc4414f30ee9.png">
-
-Fig. 4.  Tabla de estados de salida
-
+<img width="403" alt="Captura de Pantalla 2022-11-08 a la(s) 17 59 21" src="https://user-images.githubusercontent.com/110066350/200702385-c5478823-21d3-4e9c-94b4-7e2efd0730d4.png">
 
 ## Subsistema 2: Subsistema de cálculo de multiplicación
 Este sistema se encarga de recibir los operandos A y B del subsistema de lectura. La operación de multiplicación se iniciará cuando el subsistema de lectura le indique a este subsistema que los operandos son válidos por medio de una bandera valid. El cálculo de multiplicación con signo se realizará de manera iterativa por medio del Algoritmo de
