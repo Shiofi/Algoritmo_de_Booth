@@ -50,6 +50,11 @@ Para la funcionalidad y posterior implementación de este subsistema, este bloqu
 
 <img width="403" alt="Captura de Pantalla 2022-11-08 a la(s) 17 59 21" src="https://user-images.githubusercontent.com/110066350/200702385-c5478823-21d3-4e9c-94b4-7e2efd0730d4.png">
 
+## Diagrama de transición de estados
+
+![maquinaEstadoP3 drawio](https://user-images.githubusercontent.com/110066350/200704711-3f325275-fb28-42aa-a414-92f826472fdc.png)
+
+
 ## Subsistema 2: Subsistema de cálculo de multiplicación
 Este sistema se encarga de recibir los operandos A y B del subsistema de lectura. La operación de multiplicación se iniciará cuando el subsistema de lectura le indique a este subsistema que los operandos son válidos por medio de una bandera valid. El cálculo de multiplicación con signo se realizará de manera iterativa por medio del Algoritmo de
 Booth. Este bloque indicará al siguiente bloque consecutivo cuando el resultado de la multiplicación está estable para ser muestreado con una señal done
