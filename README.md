@@ -38,7 +38,8 @@ Para la funcionalidad y posterior implementación de este subsistema, este bloqu
 
 ## Circuito antirrebotes 
 
-![Diagrama sin título-Página-2 drawio](https://user-images.githubusercontent.com/111306099/198240703-50c60287-3e5f-481e-abbb-e2ce6b16383c.png)
+![Diagrama sin título-Página-2 drawio (2)](https://user-images.githubusercontent.com/111306099/201445266-128858d5-b371-4e4f-b10b-e4a861dfde09.png)
+
 
 ## Máquina de estados finitos
 
