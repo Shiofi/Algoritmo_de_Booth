@@ -41,19 +41,10 @@ Para la funcionalidad y posterior implementación de este subsistema, este bloqu
 ![Diagrama sin título-Página-2 drawio (2)](https://user-images.githubusercontent.com/111306099/201445266-128858d5-b371-4e4f-b10b-e4a861dfde09.png)
 
 
-## Máquina de estados finitos
-
-<img width="344" alt="Captura de Pantalla 2022-11-08 a la(s) 17 58 54" src="https://user-images.githubusercontent.com/110066350/200702345-e2f861ab-fc86-4050-b02d-0ef6f162371e.png">
-
-<img width="565" alt="Captura de Pantalla 2022-11-08 a la(s) 17 59 01" src="https://user-images.githubusercontent.com/110066350/200702358-efa525d2-c54a-43d0-a3ce-1e357721d0dd.png">
-
-<img width="478" alt="Captura de Pantalla 2022-11-08 a la(s) 17 59 10" src="https://user-images.githubusercontent.com/110066350/200702370-45f07841-2f99-448b-a207-4c226fee3351.png">
-
-<img width="403" alt="Captura de Pantalla 2022-11-08 a la(s) 17 59 21" src="https://user-images.githubusercontent.com/110066350/200702385-c5478823-21d3-4e9c-94b4-7e2efd0730d4.png">
-
 ## Diagrama de transición de estados
 
-![maquinaEstadoP3 drawio](https://user-images.githubusercontent.com/110066350/200704711-3f325275-fb28-42aa-a414-92f826472fdc.png)
+![maquinaEstadoP3_V2 drawio](https://user-images.githubusercontent.com/110066350/202012526-d1dee756-901d-4639-899a-b92a90eea9c3.png)
+
 
 
 ## Subsistema 2: Subsistema de cálculo de multiplicación
