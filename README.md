@@ -43,8 +43,7 @@ Para la funcionalidad y posterior implementación de este subsistema, este bloqu
 
 ## Diagrama de transición de estados
 
-![maquinaEstadoP3_V3 drawio](https://user-images.githubusercontent.com/110066350/202016314-a3b3d451-1e19-4b54-9158-a0e699fa720b.png)
-
+![maquinaEstadoP3_V3 drawio](https://user-images.githubusercontent.com/110066350/202021289-104d07b4-4921-4c63-9fad-eae16d06fc48.png)
 
 
 ## Subsistema 2: Subsistema de cálculo de multiplicación
