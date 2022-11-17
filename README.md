@@ -34,7 +34,8 @@ El algoritmo de Booth es un método rápido y sencillo para obtener el producto 
 Para la funcionalidad y posterior implementación de este subsistema, este bloque adquiere los operando A y B de 8 bits cada uno para realizar la operación de multiplicación, donde A y B se interpretan con signo en complemento a 2.La entrada del código debe ser capturada y sincronizada con el sistema principal por medio de un circuito antirebote de  4 etapas (4 FF en cascada) por switch. Se sincroniza con el sistema esperando la señal de pulsacion de 500ms, donde al cumplirse este tiempo, el sistema da inicio a la operación aritmética de multiplicación. Cada bit adquirido por el sistema luego del paso complemento a dos, se debe desplegar en un LED próximo al switch para indicar como fue leído.
 ## Diagrama de bloques del Subsistema 1
 
-![Diagrama sin título-Page-1 drawio](https://user-images.githubusercontent.com/111306099/198240037-2b19a6e5-e269-4fed-b81f-b192ed4613fc.png)
+![Diagrama sin título-Page-1 drawio](https://user-images.githubusercontent.com/111306099/202385697-af78bffa-a5a6-44d6-875d-362c0e3cfcdc.png)
+
 
 ## Circuito antirrebotes 
 
@@ -63,4 +64,6 @@ Este subsistema toma el resultado de la multiplicación en BCD y los despliega e
 Deberá utilizar al menos 6 dígitos disponibles del 7 segmentos. El sistema deberá tener la tasa de refresco adecuada para una visualización cómoda por parte del
 usuario.
 ## Diagrama de bloques del Subsistema 4
-AQUI VA EL DIAGRAMA
+
+![Diagrama sin título-Página-3 drawio](https://user-images.githubusercontent.com/111306099/202385782-42734043-f963-4090-a877-bb74c7d2f6a3.png)
+
