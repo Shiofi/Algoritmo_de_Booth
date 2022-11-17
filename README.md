@@ -55,7 +55,8 @@ AQUI VA EL DIAGRAMA
 ## Subsistema 3: Subsistema de conversión de binario a representación BCD
 Este sistema registrará el resultado del bloque anterior (16 bits con signo) y lo convierte en un formato BCD. Deberá generar al menos 5 dígitos en BCD y uno de signo para el siguiente bloque. Se indicará al siguiente bloque por medio de una bandera de done cuando está lista la conversión para registrar.
 ## Diagrama de bloques del Subsistema 3
-AQUI VA EL DIAGRAMA
+![image](https://user-images.githubusercontent.com/111307104/202380822-46476537-b0c0-4776-b5a1-c46e942f24f5.png)
+
 
 ## Subsistema 4: Subsistema de despliegue en display de 7 segmentos.
 Este subsistema toma el resultado de la multiplicación en BCD y los despliega en los dispositivos 7 segmentos disponibles en la placa, de forma decimal e incluyendo el signo.
